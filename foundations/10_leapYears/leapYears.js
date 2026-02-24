@@ -2,7 +2,7 @@
 // Years divisible by 100 are not leap years unless they are divisible by 400
 // If the given input is:
 //    divisible by four, 
-//      AND not divisible by 100 OR divisible by 400
+//      AND not divisible by 100 BUT divisible by 400
 
 
 const leapYears = function(year) {
